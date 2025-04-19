@@ -3,6 +3,6 @@ import windows
 import linux
 
 
-key="aws"
+key="linux"
 min=4
 max=5
